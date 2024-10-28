@@ -5,7 +5,6 @@ import math
 from typing import Tuple, List, Dict
 
 
-
 def index_range(page: int, page_size: int) -> Tuple[int, int]:
     """Calculate start and end indexes for a given page and page size."""
     start_index = (page - 1) * page_size
