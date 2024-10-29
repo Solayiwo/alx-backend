@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+"""Using index_range to find the correct indexes
+    to paginate the datase
+"""
 
 import csv
 import math
