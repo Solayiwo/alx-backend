@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""Implement a get_hyper method to return a dictionary"""
 
 import csv
 import math
