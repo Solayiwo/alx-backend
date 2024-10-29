@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+"""Index_range Function that takes two integer arguments.
+"""
 
 
 def index_range(page: int, page_size: int) -> tuple:
