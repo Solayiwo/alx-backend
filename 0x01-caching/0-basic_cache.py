@@ -3,6 +3,7 @@
 
 from base_caching import BaseCaching
 
+
 class BasicCache(BaseCaching):
     def put(self, key, item):
         """Assign the item to the cache with the specified key."""
